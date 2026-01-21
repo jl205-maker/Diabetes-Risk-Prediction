@@ -1,2 +1,8 @@
 # Diabetes-Risk-Prediction
 An interpretable ML model that helps people better understand the key factors associated with diabetes and prediabetes.
+
+This project aims to develop an interpretable model that helps people better understand the key factors associated with diabetes and prediabetes. As healthcare continues to play an increasingly central role in people's lives, we hope our work offers meaningful insights into how behavioral, lifestyle, and socio-demographic variables contribute to chronic disease risk. By applying supervised machine learning techniques and big data analytics, this study highlights the importance of modifiable behaviors and social determinants in early disease detection and prevention.
+
+Our primary dataset is the CDC Diabetes Health Indicators dataset from UCI Machine Learning Repository, which contains responses from 253,680 U.S. adults who participated in the CDC BRFSS 2014 survey. The dataset includes a wide range of features such as BMI, blood pressure, cholesterol levels, smoking habits, physical activity, diet, mental and physical health, and demographic information including age, sex, education, and income. Leveraging these variables, we will build a transparent and practical machine learning model that predicts an individual's risk of diabetes or prediabetes.
+
+In addition to the predictive model, this study provides a reproducible framework that can be extended to broader public health datasets. The goal is to support both patients and healthcare professionals in identifying high-risk individuals and promoting targeted, preventative interventions.
